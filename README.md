@@ -43,3 +43,33 @@ Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+Inline `code` has `back-ticks around` it.
+
+Blocks of code are either fenced by lines with three back-ticks , or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.
+
+```C++
+int a = 12;
+```
+
+
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+```HTML
+<div class="some_block">
+<a href="#">Some link here</a>
+</div>
+<p>Text here</p>
+```
+
+```CSS 
+p {
+	color: yellow;
+	background-color: green;
+}
+```
