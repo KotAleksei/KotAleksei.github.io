@@ -26,3 +26,7 @@ Links
 We should add +1 Enter always 
 
 [And link with title](https://www.google.com "Argument")
+
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> and sometimes 
+example.com (but not on Github, for example).
