@@ -75,7 +75,7 @@ p {
 ```
 
 
-Some Table 
+Some list
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
@@ -85,3 +85,19 @@ Some Table
 </dl>
 
 How it looks?
+
+Horizontal Rule
+
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
