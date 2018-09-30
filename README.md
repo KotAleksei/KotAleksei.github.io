@@ -11,10 +11,7 @@ Great [GitHub page](https://github.com/KotAleksei "My profile")
 Img:
 ![alt text](https://recast.ai/blog/wp-content/uploads/2016/03/Octocat-github-1.png "PNG Git")
 
-Img_1.0: 
-![alt text][logo]
 
-[logo]: https://recast.ai/blog/wp-content/uploads/2016/03/Octocat-github-1.png
 
 
 
